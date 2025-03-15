@@ -13,14 +13,13 @@ The project includes three different implementations of the Monte Carlo method f
 
 2. **Statistics Version** (`monte_carlo_with_stats.py`):
    - Enhanced version with detailed statistics
-   - Real-time progress tracking
+   - Prettier console outputs
    - High-precision calculations using mpmath
 
 3. **Animated Visualization** (`monte_carlo_animation.py`):
-   - Interactive visualization of the Monte Carlo process
+   - Cool visualization of the Monte Carlo process
    - Real-time point plotting with neon effect
    - Live statistics updates
-   - Custom pixel art styling
 
 ### Pi-based Encryption Tool
 - Generates encryption keys using digits of π
@@ -58,8 +57,3 @@ python pi_encryption.py
 
 Explore and have a play around!
 
-## Technical Details
-- Uses matplotlib for visualizations
-- Implements custom neon glow effects
-- High-precision calculations using mpmath
-- Rich console output for enhanced user experience
