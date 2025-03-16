@@ -2,6 +2,15 @@
 
 In honour of Pi day, we've created a repository with the code to the fun little gimmicks shown in our pi day video!
 
+## Table of Contents
+- [Features](#features)
+  - [Monte Carlo Pi Estimation](#monte-carlo-pi-estimation)
+  - [Pi-based Encryption Tool](#pi-based-encryption-tool)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
 ## Features
 
 ### Monte Carlo Pi Estimation
@@ -56,4 +65,45 @@ python pi_encryption.py
 ```
 
 Explore and have a play around!
+
+## Contributing
+We welcome contributions to make this Pi Day celebration even better! Here's how you can contribute:
+
+### Ways to Contribute
+1. **Add New Features**
+   - New π estimation methods
+   - Different visualization styles
+   - Additional π-based tools
+
+2. **Improve Existing Code**
+   - Optimize performance
+   - Enhance visualizations
+   - Add error handling
+   - Improve documentation
+
+3. **Report Issues**
+   - Bug reports
+   - Feature requests
+   - Documentation improvements
+
+### How to Submit Changes
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes
+4. Test your changes thoroughly
+5. Submit a pull request with a clear description of your changes
+
+### Style Guidelines
+- Follow PEP 8 Python style guide
+- Add docstrings to new functions/classes
+- Comment complex code sections
+- Keep a similar aesthetic for visualizations
+
+### Get in Touch
+Have questions or ideas? Feel free to:
+- Open an issue
+- Start a discussion
+- Reach out to the maintainers
+
+Thank you for helping make this project better! 🥧
 
