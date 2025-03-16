@@ -1,6 +1,6 @@
 # Pi Day
 
-In honour of Pi day, we've created a repository with the code to the fun little gimmicks shown in our pi day video!
+In honour of Pi day, we've created a repository with the code to the fun little gimmicks shown in our [pi day video](https://www.instagram.com/reel/DHN8Z0nyYeO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)!
 
 ## Table of Contents
 - [Features](#features)
